@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deezer Sarki Arayici</string>
+    <string name="track_cover_image" translatable="false">Album Kapagi</string>
+    <string name="search" translatable="false">Ara</string>
+    <string name="search_hint" translatable="false">Sarki veya Sarkici Ara</string>
+    <string name="clear_search_history" translatable="false">Gecmisi Temizle</string>
+    <string name="clear_history_dialog_message" translatable="false">Tum Arama Gecmisini Temizlemek Istiyor musun?</string>
+    <string name="dialog_positive_message" translatable="false">Evet</string>
+    <string name="dialog_negative_message" translatable="false">Hayir</string>
+    <string name="img_album_art" translatable="false">Album</string>
+    <string name="track_not_in_database" translatable="false">Maalesef, bu sarki veri tabanimizda mevcut degil!</string>
+    <string name="error_getting_data" translatable="false">Sarkiyi bulmaya calisirken bir hata olustu.</string>
+</resources>

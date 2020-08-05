@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Deezer Song Search API</string>
+    <string name="track_cover_image" translatable="false">Track cover image</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="search_hint" translatable="false">Search song or singer</string>
+    <string name="clear_search_history" translatable="false">Clear History</string>
+    <string name="clear_history_dialog_message" translatable="false">Clear all search history?</string>
+    <string name="dialog_positive_message" translatable="false">Yes</string>
+    <string name="dialog_negative_message" translatable="false">No</string>
+    <string name="img_album_art" translatable="false">Album art</string>
+    <string name="error_getting_data" translatable="false">An error occurred while retrieving data.</string>
+    <string name="track_not_in_database" translatable="false">Sorry, this song is not in our database</string>
+</resources>
